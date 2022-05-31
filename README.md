@@ -4,10 +4,10 @@ The Node Controller is a single-board Linux computer providing encrypted TCP/IP 
 
 Our current generation of Nvidia Jetson based Node Controller is primarily composed of:
 
-* Hardware: Jetson Xavier NX
-* OS: Ubuntu 18.04 (TODO add link)
+* Jetson Xavier NX
+* Ubuntu 18.04 Based OS(TODO add link)
 * Resilience Support:
-    * Hardware: [Wagman v5](https://github.com/waggle-sensor/wagman)
-    * Software: [Waggle Wagman Watchdog](https://github.com/waggle-sensor/sage-wagman-watchdog)
+    * [Wagman v5](https://github.com/waggle-sensor/wagman)
+    * [Wagman Watchdog](https://github.com/waggle-sensor/sage-wagman-watchdog)
 * Application Stack
     * [Waggle Edge Stack](https://github.com/waggle-sensor/waggle-edge-stack)
