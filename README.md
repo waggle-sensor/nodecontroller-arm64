@@ -6,4 +6,4 @@ Our current generation of Node Controller is built on the Jetson Xavier NX and r
 
 Layered resilience is provided through bootloader and OS failover mechanisms, our own [Wagman v5 hardware](https://github.com/waggle-sensor/wagman/tree/master/boards/v5) and a [system watchdog](https://github.com/waggle-sensor/sage-wagman-watchdog) which ties all of these together.
 
-Finally, the entire messaging and application stack is built on top of [k3s](https://k3s.io) and is provided by [Waggle Edge Stack](https://github.com/waggle-sensor/waggle-edge-stack).
+Finally, the messaging and application stack is built on top of [k3s](https://k3s.io) and is provided by [Waggle Edge Stack](https://github.com/waggle-sensor/waggle-edge-stack).
