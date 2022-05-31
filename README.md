@@ -1,6 +1,6 @@
-# Node Controller
+# Node Controller - ARM64
 
-The Node Controller is a single-board Linux computer providing encrypted TCP/IP messaging, data caching, node health monitoring, and cybersecurity tools including cryptokey management and signed software. While the above tasks are its main priority, through container-based isolation technologies, the node controller is also available to run user applications on the dedicated CPU-GPU resources.
+The node nontroller is a single-board Linux computer providing encrypted TCP/IP messaging, data caching, node health monitoring, and cybersecurity tools including cryptokey management and signed software. While the above tasks are its main priority, through container-based isolation technologies, the node controller is also available to run user applications on the dedicated CPU-GPU resources.
 
 Our current generation of Node Controller is built on the Jetson Xavier NX and runs a custom Ubuntu 18.04 Linux image.
 
