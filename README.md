@@ -1,5 +1,7 @@
 # Node Controller - ARM64
 
+# _This repo is archived. See https://github.com/waggle-sensor/nodecontroller_
+
 Our current generation of Node Controller is built on the Jetson Xavier NX and runs a custom Ubuntu 18.04 Linux image.
 
 Layered resilience is composed of bootloader and OS failover mechanisms, our own [Wagman v5 hardware](https://github.com/waggle-sensor/wagman/tree/master/boards/v5) and finally a [system watchdog](https://github.com/waggle-sensor/sage-wagman-watchdog) which ties all of these together.
